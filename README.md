@@ -13,7 +13,7 @@ The dataset EDGAR CO2 emissions data from 1970 – 2018 is downloaded from the G
 
 The dataset is timeseries 1970–2018 of CO₂ emissions by country and sector (Buildings, Power Industry, Transport, Other industrial combustion, Other sectors) in Mt CO₂/year.
 
-Unit: Mt CO₂ per year
+Unit: Megaton(Mt) CO₂ per year
 
 Dataset © European Union, 1995-2020.<https://data.jrc.ec.europa.eu/licence/com_reuse> Authorized reuse with the source acknolwedged as below. 
 
